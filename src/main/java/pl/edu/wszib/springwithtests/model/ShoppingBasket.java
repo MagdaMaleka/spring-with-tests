@@ -24,7 +24,7 @@ public class ShoppingBasket {
         this.id = id;
     }
 
-    public double getGrossValue() {
+    public double getGrossValue(double v) {
         return grossValue;
     }
 
